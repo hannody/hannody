@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on any Pythonic Open Source Project, just let me know...
 - 💬 Ask me about Python, RESTfull APIs, Web Development, Mobile Apps Developement, Video Games Develpment and Machine Learning Projects.
 - 📫 How to reach me: moh@abunayla.com
-- :sunglasses: If you like to hire me, please check my website www.abunayla.com/#projects projects and demos, also check my public repositories and contact me if you like my work, I can work remotly, onsite and willing to relocate worldwide.
+- :sunglasses: If you like to hire me, please check my website www.abunayla.com/#projects for my previous projects and demos, also check my public repositories and contact me if you like my work, I can work remotly, onsite and willing to relocate worldwide.
 
 <!--
 **hannody/hannody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
