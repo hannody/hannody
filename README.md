@@ -1,7 +1,7 @@
 ### Hi there 👋 
 - 🔭 I’m working on industry level Django/Django Rest Framewrok (DRF) projects that uses Docker, CI/CD and TDD.
 - ✨ I’m building end-to-end cloud-native backend services for Machine Learning systems, from training to serving and            inferencing.
-- 🌱 I also expanding my knowldge of AWS,GCP, Flutter and React, plus still improving my Python Stack..
+- 🌱 I'm expanding my skills of AWS,GCP, Flutter and React, Apche AirFlow..
 - 👯 I’m looking to collaborate on any Pythonic Open Source Project, just let me know...
 - 💬 Ask me about Python, RESTfull APIs, Web Development, Mobile Apps Developement, Video Games Develpment and Machine Learning Projects.
 - 📫 How to reach me: moh@abunayla.com
